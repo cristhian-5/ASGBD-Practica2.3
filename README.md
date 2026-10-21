@@ -56,7 +56,7 @@
 
 ### 3. Pruebas de conexión realizadas
 - Consola Oracle
-  - [imagen]
+  - ![consola oracle](img/consola_oracle.png)
   - _Oracle Database 23ai Free_
   - **Servidor:** `localhost`
   - **Puerto:** `1521`
@@ -64,10 +64,10 @@
   - **Usuario:** `orauser`
 
 - Gráfico Oracle
-  - [imagen]
+  - ![grafico oracle](img/grafico_oracle.png)
 
 - Consola PostgreSQL
-  - [imagen]
+  - ![consola postgreSQL](img/consola_postgreSQL.png)
   - _PostgreSQL_
   - **Servidor:** `10.0.2.15`
   - **Puerto:** `5432`
@@ -75,10 +75,10 @@
   - **Usuario:** `pguser`
 
 - Gráfico PostgreSQL
-  - [imagen]
+  - ![grafico postgreSQL](img/grafico_postgreSQL.png)
 
 - Consola MariaDB
-  - [imagen]
+  - ![consola mariaDB](img/consola_mariaDB.png)
   - _MariaDB_
   - **Servidor:** `localhost`
   - **Puerto:** `3306`
@@ -86,7 +86,7 @@
   - **Usuario:** `muser`
 
 - Web MariaDB
-  - [imagen]
+  - ![web mariaDB](img/web_mariaDB.png)
 
 
 ### 4. Problemas surgidos y soluciones aplicadas
